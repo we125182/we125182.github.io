@@ -88,7 +88,8 @@ highlight:
 #Cmments
 comment:
   duoshuo: #chaooo ## duoshuo_shortname
-  disqus: ## disqus_shortname
+  ## disqus_shortname
+  disqus: we125182-blog
   livere: ## 来必力(data-uid)
   uyan: ## 友言(uid)
   cloudTie: ## 网易云跟帖(productKey)
